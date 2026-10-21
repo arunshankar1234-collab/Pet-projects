@@ -25,5 +25,5 @@ Read it at the start of a session, and keep it updated with progress (last day d
 - `dsa/weekNN/dN_<problem>.py`: one file per problem; re-solves go in `_r2`, `_r3` files.
 - `system-design/`: notes, from week 9.
 - Pet projects will go in their own top-level folders, each with its own README, since they may be shown to interviewers.
-- No remote yet; the user plans to push it later. Branch `main`. Commit when the user asks.
+- Remote `origin` is the user's personal GitHub (arunshankar1234-collab/Pet-projects) over the SSH alias `github-personal`, with a repo-local personal email. Never push with the company account (`arun-bonito`) or to the company repo (Squadro). Branch `main`. Commit when the user asks.
 - Machine Python is 3.8.10 (`python3`). An upgrade to 3.11+ was offered and not yet done.
